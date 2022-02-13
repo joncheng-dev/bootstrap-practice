@@ -1,0 +1,41 @@
+[33mcommit d228571cc58d3695fa85a73a762daad49983a6ba[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/gh-pages[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: Jonathan Cheng <jcheng461@gmail.com>
+Date:   Sun Feb 13 11:12:39 2022 +0900
+
+    add margins above and below card element. Add image. Change text.
+
+[33mcommit d45018cf8f070c70cb5773eeb444667046a2ccdf[m
+Author: Jonathan Cheng <jcheng461@gmail.com>
+Date:   Sat Feb 12 23:51:10 2022 +0900
+
+    WIP: add information for tour packages using bootstrap grid system. Still need to add additioanl customization of apperances.
+
+[33mcommit 237635fb15cb3075ae238fdeaffa1097da414725[m
+Author: Jonathan Cheng <jcheng461@gmail.com>
+Date:   Wed Feb 9 13:28:29 2022 +0900
+
+    add columns for vacation package deals, using bootstrap grid system
+
+[33mcommit ab6a2798ef21cfd2f66ea9718df96ac907385bd7[m
+Author: Jonathan Cheng <jcheng461@gmail.com>
+Date:   Tue Feb 8 16:28:11 2022 +0900
+
+    WIP: start to add section for vacation packages to Bali. This is to practice Bootstrap's grid system.
+
+[33mcommit c82ce1bf41e223a1a069ed5b6690ed075ff6e302[m
+Author: Jonathan Cheng <jcheng461@gmail.com>
+Date:   Tue Feb 8 14:55:33 2022 +0900
+
+    add built-in classes to add color, emphasizing a line on the page
+
+[33mcommit 17e522bdd18e53a10dd3337659a538bbab68aff1[m
+Author: Jonathan Cheng <jcheng461@gmail.com>
+Date:   Mon Feb 7 15:28:25 2022 +0900
+
+    add title, header, and text. Use bootstrap elements to improve appearance of site using blocks, etc.
+
+[33mcommit b30766754c20715c05757c20158efd1a8a8dfb8f[m
+Author: Jonathan Cheng <jcheng461@gmail.com>
+Date:   Mon Feb 7 15:10:35 2022 +0900
+
+    add index.html for site to practice bootstrap. CSS folder made and added bootstrap.css
